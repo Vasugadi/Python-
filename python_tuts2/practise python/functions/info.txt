@@ -1,0 +1,73 @@
+Pseudocode:
+define function name parameters :
+    code 
+    return value
+
+function call (arguments)
+
+
+
+function :
+    function is a block of code that is designed to perform a specific task.
+    it is a reusable piece of code that can be called multiple times.
+    it helps to organize code and make it more readable.
+    it can take input parameters and return output.
+    it can be defined using the def keyword.
+    it can be called using the function name followed by parentheses.
+    it can be passed arguments.
+
+1- reusability increases
+2- code is more readable
+3- modularity- is the ability to break down a complex system into smaller, more manageable parts.
+4- scope - 
+
+
+
+
+_________________________________________
+scope
+scope is the region in which a variable is accessible.
+there are two types of scope:
+1- local scope
+2- global scope
+
+local scope:
+    local scope is the region in which a variable is accessible only within the function in which it is defined.
+    it is also called function scope.
+    it is created when a function is called and destroyed when the function is exited.
+    it is used to limit the visibility of a variable to the function in which it is defined.
+
+global scope:
+    global scope is the region in which a variable is accessible throughout the program.
+    it is also called program scope.
+
+local scope example:
+    def my_function():
+        x = 10
+        print(x)
+
+global scope example:
+    x = 10
+    def my_function():
+        print(x)
+
+_________________________________________
+parameters and arguments
+parameters are the variables that are defined in the function definition.
+arguments are the values that are passed to the function when it is called.
+
+parameter example:
+    def my_function(x, y):
+        x=10
+        y=20
+        print(x+y)
+
+argument example:
+    def my_function(x, y):
+        print(x+y)
+    my_function(10, 20)
+
+_________________________________________
+return statement
+return statement is used to exit a function and return a value to the caller.
+it can be used to return a value or to exit the function without returning a value.

@@ -1,0 +1,28 @@
+file is a collection of stored data
+we can read write and modify data in file
+we can create a file using open function
+open function takes two arguments
+1. file name
+2. mode of opening
+mode of opening
+r = read
+w = write
+a = append
+x = create
+t = text mode
+b = binary mode
+r+ = read and write
+w+ = write and read
+a+ = append and read
+
+
+we open the file do operations 
+and do some work 
+and then close the file
+
+2 types of files
+1.text file
+2. binary file
+
+binary --  non text data .jpg,.png
+text -- .txt,.csv,.json,.xml

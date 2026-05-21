@@ -1,0 +1,33 @@
+#super method is used to call the parent class method
+
+class Parent:
+    def __init__(self):
+        self.value = "I am the parent class"
+
+    def show(self):
+        print(self.value)
+
+class Child(Parent):
+    def __init__(self):
+        super().__init__()
+        self.value = "I am the child class"
+
+    def show(self):
+        print(self.value)
+
+    def super_show(self):
+        super().show()
+
+child = Child()
+child.show()
+child.super_show()
+
+class Car:
+    def __init__(self, type):
+        self.type = type
+    
+    #staticmethod
+    def start():
+        print("Car is starting")
+        
+ 

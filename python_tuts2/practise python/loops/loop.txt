@@ -1,0 +1,34 @@
+"""
+we can repeat the code multiple time
+1 while - until unless condition true
+
+2 for -iterate on sequences (list,tuple,dict,set,string)
+"""
+while loop
+
+while condition:
+    #code
+   
+______________________________
+for loop
+
+for i in list:
+    
+for i in range(1,10):
+    print(i)
+______________________________
+break - exit the loop
+
+______________________________
+continue - skip the current iteration and continue with next iteration
+
+______________________________
+pass - do nothing
+
+______________________________
+else - execute when loop is exhausted
+
+______________________________
+nested loop - loop inside loop
+
+______________________________

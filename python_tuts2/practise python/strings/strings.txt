@@ -1,0 +1,37 @@
+string and characters
+
+string is a sequence of characters
+
+string is immutable
+
+single quotes-'oooma'
+double quotes-"oooma"
+triple quotes-
+'''
+its an
+multiline strings
+'''
+
+"""
+this is also 
+a multiline
+string
+"""
+______________________________
+string is immutable
+strings are indexed
+
+indexing of string is starts with 0
+by using the index number we can access the string
+______________________________
+slicing of string
+we can access a string by slicing
+
+______________________________
+indexing
+
+left to right +indexing start from 0 to n
+right to left -indexing start from -1 to -n
+__________
+real life
+

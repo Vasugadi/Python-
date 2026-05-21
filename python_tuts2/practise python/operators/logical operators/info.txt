@@ -1,0 +1,5 @@
+multiple condition combine-Boolean True/False
+
+and - all condition must be true >True
+or -at least one condition must be true >True
+not - single operand , reverse

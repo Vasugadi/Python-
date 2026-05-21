@@ -1,0 +1,10 @@
+problems using procedural
+1-code duplication
+2-difficult maintain
+3-data security
+4-poor code reusability
+
+oops
+its object oriented programming
+
+

@@ -1,0 +1,18 @@
+top to bottom 
+-condition,float run,other not run
+
+
+controls statements
+
+conditional-if elif else
+for while else suite
+nested
+infinite
+pass 
+continue
+break
+assert return
+
+vote--?
+age-18+ vote
+age >18 not vote

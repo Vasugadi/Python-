@@ -1,0 +1,36 @@
+errors are unwanted events that occurs during the execution of a program
+errors are of two types
+1. syntax errors
+2. logical errors
+
+syntax errors are errors that occur due to incorrect syntax of the program
+logical errors are errors that occur due to incorrect logic of the program
+
+
+
+what are errors?
+errors effects the flow of code execution
+
+compile time errors are errors that occur during the compilation of the program
+ex 
+if 1==1   # i forgot to put a colon at the end of the if statement
+
+
+runtime errors 
+its due to the incorrect logic of the program
+ex
+print(2%0)
+
+logical errors
+we wont get out desired output 
+
+
+errors in software  development - bugs
+removing fixing errors -- debugging
+
+
+
+
+
+
+

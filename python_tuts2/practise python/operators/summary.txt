@@ -1,0 +1,5 @@
+arith-math calculations
+comparision operators- compare values
+logical operators- and or not combines
+assaignment-assign values
+membership operators- in not in value exists in sequences

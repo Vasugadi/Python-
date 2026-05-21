@@ -1,0 +1,21 @@
+python dictionary
+1-definition & characteristics
+    key-vlaue pairs
+    using dict() contructor
+2- operations
+    adding items
+    updating items
+    deleting items
+3- Dictionary methods
+    get(),keys(),values(),items(),clear(),copy(),pop(),popitem(),update()
+4- Nested dictionary
+    a dictionary inside another dictionary
+5- Dictionary comprehension
+    a way to create a dictionary from an iterable
+
+
+1-key value pairs
+2-unordered3.7 ,ordered
+3.mutable
+4-dynamic 
+

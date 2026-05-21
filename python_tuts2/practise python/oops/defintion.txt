@@ -1,0 +1,19 @@
+a class is blue print for creating objects
+class is a user defined data type
+class contains attributes and methods
+
+
+methods contains actions of behaviour of the object
+attributes are the properties of the object
+
+
+object is an instance of a class and it has properties and methods
+
+conustructor is a special method which is called when an object is created
+it is used to initialize the object
+
+self is a reference to the current instance of the class and is used to access variables that belongs to the class
+
+class is a blueprint for creating objects
+object is an instance of a class and it has properties and methods
+constructor is a special method which is called when an object is created

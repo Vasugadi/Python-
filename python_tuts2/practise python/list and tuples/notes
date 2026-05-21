@@ -1,0 +1,13 @@
+list -- used to store some collection of data in a single variable
+
+list=["sagar",1,2.3,"python",True]
+
+its orderd
+its mutable
+its allows duplicate elements
+its dynamic 
+hetero genius
+
+
+ways of creating list
+
